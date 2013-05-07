@@ -1,0 +1,4 @@
+--cpu Cortex-M4.fp "startup_stm32f4xx.o" "rwfile.o" "stm32f4xx_it.o" "system_stm32f4xx.o" "usb_bsp.o" "usbh_usr.o" "main.o" "stm32f4xx_tim.o" "misc.o" "stm32f4xx_adc.o" "stm32f4xx_dac.o" "stm32f4xx_dma.o" "stm32f4xx_exti.o" "stm32f4xx_i2c.o" "stm32f4xx_rcc.o" "stm32f4xx_spi.o" "stm32f4xx_syscfg.o" "stm32f4xx_gpio.o" "stm32f4xx_usart.o" "usb_hcd_int.o" "usb_core.o" "usb_hcd.o" "usbh_stdreq.o" "usbh_core.o" "usbh_hcs.o" "usbh_ioreq.o" "usbh_msc_fatfs.o" "usbh_msc_scsi.o" "usbh_msc_bot.o" "usbh_msc_core.o" "fattime.o" "ff.o" "stm32f4_discovery_lis302dl.o" "stm32f4_discovery.o" "C:\Documents and Settings\Administrator\×ÀÃæ\MAIN\discovery\libPDMFilter_Keil.lib" "auto_ctrl_sub.o" "data_deal_sub.o" "inter_polate_sub.o" --library_type=microlib --strict --scatter "newusbInp.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\newusbInp.map" -o "newusbInp.axf"
